@@ -1,0 +1,35 @@
+### Node template
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
+package-lock.json
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+.env.test
+
+#WinMerge temporary files
+**bak
+
+### JetBrains template
+# Covers JetBrains IDEs: WebStorm
+# User-specific stuff
+.idea/
+
+### VisualStudioCode template
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
